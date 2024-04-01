@@ -1,0 +1,14 @@
+{
+  "name": "@jash-ajmerainfotech/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaces from a string",
+  "license": "MIT",
+  "repository": "jash-ajmerainfotech/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "jash-ajmerainfotech"
+  ]
+}
